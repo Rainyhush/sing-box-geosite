@@ -2,3 +2,11 @@ https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash
 
 https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/ChinaMax/ChinaMax.list
 https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/ChinaMax/ChinaMax_IP.txt
+
+https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/YouTube/YouTube.list
+https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/Google/Google.list
+https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/Spotify/Spotify.list
+https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/GitHub/GitHub.list
+https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/OpenAI/OpenAI.list
+https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/Microsoft/Microsoft.list
+https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/Telegram/Telegram.list
