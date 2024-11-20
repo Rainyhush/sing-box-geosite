@@ -1,2 +1,4 @@
-
 https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/Advertising/Advertising.list
+
+https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/ChinaMax/ChinaMax.list
+https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Clash/ChinaMax/ChinaMax_IP.txt
